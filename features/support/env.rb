@@ -1,0 +1,5 @@
+require 'cucumber'
+require 'hhtparty'
+require 'faker'
+require 'json'
+require 'rspec'

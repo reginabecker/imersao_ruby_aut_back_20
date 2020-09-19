@@ -5,9 +5,8 @@ Criado o Gemfile
 
 No terminal executar
 bundle install
-
 cucumber --init
-
 git status
-
 git add .
+git commit -m "Configuração inicial"
+git push

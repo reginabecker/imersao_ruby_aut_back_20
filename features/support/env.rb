@@ -1,5 +1,5 @@
 require 'cucumber'
-require 'hhtparty'
+require 'httparty'
 require 'faker'
 require 'json'
 require 'rspec'

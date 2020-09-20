@@ -10,3 +10,7 @@ git status
 git add .
 git commit -m "Configuração inicial"
 git push
+cucumber -t @healtcheck
+
+# Criar uma branch 
+git checkout -b authors_healthcheck

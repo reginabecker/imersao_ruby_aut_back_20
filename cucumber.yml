@@ -1,2 +1,2 @@
-default: --no--source --color --format pretty --format html --out report.html
+default: --no-source --color --format pretty --format html --out report.html
 

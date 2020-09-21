@@ -27,7 +27,7 @@ Dado("que faco uma requisicao GET para o endpoint de obter autores com id do aut
     puts @author
     @response = @services.authors.get_author_by_id @author['ID']
     puts @response
-  end
+end
 
 Dado('que faco uma requisicao PUT para o endpoint de editar autor') do 
     @author = Author.new

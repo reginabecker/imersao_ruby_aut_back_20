@@ -18,3 +18,10 @@ git status
 git add .
 git commit -m "Cenários da feature author healthcheck"
 git push -u origin authors_healthcheck
+
+#Criar uma branch
+git checkout -b authors_contract
+git status
+git add .
+git commit -m "Cenários da feature author contract"
+git push -u origin authors_contract

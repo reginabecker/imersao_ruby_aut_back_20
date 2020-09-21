@@ -24,7 +24,6 @@ Cenario: Healtcheck endpoint editar autor
     Dado que faco uma requisicao PUT para o endpoint de editar autor
     Então o status de resposta e 200      
 
-@inprogress
 Cenario: Healtcheck endpoint excluir autor
     Dado que faco uma requisicao DELETE para o endpoint de excluir autor
     Então o status de resposta e 200          

@@ -14,3 +14,7 @@ cucumber -t @healtcheck
 
 # Criar uma branch 
 git checkout -b authors_healthcheck
+git status
+git add .
+git commit -m "Cenários da feature author healthcheck"
+git push -u origin authors_healthcheck
